@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Application\\Gobi.Test.Jr.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Application\\Gobi.Test.Jr.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Application\\Gobi.Test.Jr.Application.csproj",
+        "projectName": "Gobi.Test.Jr.Application",
+        "projectPath": "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Application\\Gobi.Test.Jr.Application.csproj",
+        "packagesPath": "C:\\Users\\Neo\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Neo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Infra\\Gobi.Test.Jr.Infra.csproj": {
+                "projectPath": "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Infra\\Gobi.Test.Jr.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Domain\\Gobi.Test.Jr.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Domain\\Gobi.Test.Jr.Domain.csproj",
+        "projectName": "Gobi.Test.Jr.Domain",
+        "projectPath": "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Domain\\Gobi.Test.Jr.Domain.csproj",
+        "packagesPath": "C:\\Users\\Neo\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Neo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Infra\\Gobi.Test.Jr.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Infra\\Gobi.Test.Jr.Infra.csproj",
+        "projectName": "Gobi.Test.Jr.Infra",
+        "projectPath": "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Infra\\Gobi.Test.Jr.Infra.csproj",
+        "packagesPath": "C:\\Users\\Neo\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Neo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Domain\\Gobi.Test.Jr.Domain.csproj": {
+                "projectPath": "C:\\Workspace\\Gobi.Test.Jr\\src\\Gobi.Test.Jr.Domain\\Gobi.Test.Jr.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.117, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

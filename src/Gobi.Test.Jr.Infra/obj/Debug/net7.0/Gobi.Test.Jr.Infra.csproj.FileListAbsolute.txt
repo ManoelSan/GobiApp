@@ -1,0 +1,17 @@
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\bin\Debug\net7.0\Gobi.Test.Jr.Infra.deps.json
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\bin\Debug\net7.0\Gobi.Test.Jr.Infra.runtimeconfig.json
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\bin\Debug\net7.0\Gobi.Test.Jr.Infra.dll
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\bin\Debug\net7.0\Gobi.Test.Jr.Infra.pdb
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\bin\Debug\net7.0\Gobi.Test.Jr.Domain.dll
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\bin\Debug\net7.0\Gobi.Test.Jr.Domain.pdb
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\obj\Debug\net7.0\Gobi.Test.Jr.Infra.csproj.AssemblyReference.cache
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\obj\Debug\net7.0\Gobi.Test.Jr.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\obj\Debug\net7.0\Gobi.Test.Jr.Infra.AssemblyInfoInputs.cache
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\obj\Debug\net7.0\Gobi.Test.Jr.Infra.AssemblyInfo.cs
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\obj\Debug\net7.0\Gobi.Test.Jr.Infra.csproj.CoreCompileInputs.cache
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\obj\Debug\net7.0\Gobi.Test.Jr.Infra.csproj.CopyComplete
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\obj\Debug\net7.0\Gobi.Test.Jr.Infra.dll
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\obj\Debug\net7.0\refint\Gobi.Test.Jr.Infra.dll
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\obj\Debug\net7.0\Gobi.Test.Jr.Infra.pdb
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\obj\Debug\net7.0\Gobi.Test.Jr.Infra.genruntimeconfig.cache
+C:\Workspace\Gobi.Test.Jr\src\Gobi.Test.Jr.Infra\obj\Debug\net7.0\ref\Gobi.Test.Jr.Infra.dll

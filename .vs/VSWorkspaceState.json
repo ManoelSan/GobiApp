@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Gobi.Test.Jr.Infra",
+    "\\src\\Gobi.Tests.Jr.WebApp",
+    "\\src\\Gobi.Tests.Jr.WebApp\\bin",
+    "\\src\\Gobi.Tests.Jr.WebApp\\Views",
+    "\\src\\Gobi.Tests.Jr.WebApp\\Views\\Shared",
+    "\\src\\Gobi.Tests.Jr.WebApp\\Views\\Todo"
+  ],
+  "SelectedNode": "\\src\\Gobi.Test.Jr.Infra\\TodoItemRepository.cs",
+  "PreviewInSolutionExplorer": true
+}
